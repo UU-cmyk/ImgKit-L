@@ -58,11 +58,6 @@ ImgKit-L 是一个集成了多种图像处理功能的桌面应用程序，提�
 pip install PyQt5 Pillow opencv-python numpy scipy imagehash
 ```
 
-3. 运行启动器：
-```bash
-python main_launcher.py
-```
-
 ### 从源代码运行
 
 确保所有模块文件位于同一目录下：
@@ -72,12 +67,13 @@ python main_launcher.py
 - image_flip.py (文档4)
 - image_segmentation.py (文档5)
 - image_size_modification.py (文档6)
-- main_launcher.py (文档7)
+- ImgKit-L.py (文档7)
 
 以及资源文件：
 - Assets/Img/App_Icon.png
+- Assets/Img/App_Icon.ico
 - Assets/Img/Function_Icon/ 目录下的各种功能图标
-- Assets/Font/Siyuan_Heiti.otf
+- Assets/Font/Siyuan_Heiti.otf 程序字体文件
 
 ## 使用说明
 
